@@ -1,3 +1,5 @@
+# SOME REGIONS MY BE GEO BLOCKED
+
 # plex-alt-fast-channels
 
 Auto-generated Plex Free Live TV playlists and EPG/XMLTV data, rebuilt every 6 hours via GitHub Actions.
